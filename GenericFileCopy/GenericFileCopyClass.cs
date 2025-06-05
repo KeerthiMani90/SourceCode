@@ -256,8 +256,7 @@ namespace PSUpload
                     _db.AddInParameter(dbCmd, "@subprocessId", DbType.Int32, subprocessId);
                     _db.AddInParameter(dbCmd, "@status", DbType.String, status);
                     _db.AddInParameter(dbCmd, "@dcn", DbType.String, sDcn);
-                    _db.AddInParameter(dbCmd, "@mode", DbType.String, mode);
-                    //_db.AddOutParameter(dbCmd, "@Flag", DbType.Int32, 50);
+                    _db.AddInParameter(dbCmd, "@mode", DbType.String, mode);                    
                     int cal= _db.ExecuteNonQuery(dbCmd);
                     if(cal>0)
                         bolSuccess = true;
