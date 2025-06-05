@@ -1,0 +1,13 @@
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.csproj.AssemblyReference.cache
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.Properties.Resources.resources
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreationConversion.IDRSTiffZipCreationConvForm.resources
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.csproj.GenerateResource.cache
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.csproj.CoreCompileInputs.cache
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\IDRSTiffZipCreation.exe.config
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\IDRSTiffZipCreation.exe
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\IDRSTiffZipCreation.pdb
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\Microsoft.CSharp.dll
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\Generic.Connection.dll.config
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\bin\Release\Microsoft.CSharp.xml
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.exe
+E:\ddrive\ETHOS\OMW\IDRS\IDRSTiffZipCreation\obj\Release\IDRSTiffZipCreation.pdb
