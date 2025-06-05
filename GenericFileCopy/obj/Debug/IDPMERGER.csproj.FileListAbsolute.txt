@@ -1,0 +1,13 @@
+D:\Tool\Ela\IDPMERGER\bin\Debug\IDPMERGER.exe.config
+D:\Tool\Ela\IDPMERGER\bin\Debug\IDPMERGER.exe
+D:\Tool\Ela\IDPMERGER\bin\Debug\IDPMERGER.pdb
+D:\Tool\Ela\IDPMERGER\bin\Debug\Ethos.Core.dll
+D:\Tool\Ela\IDPMERGER\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.csproj.AssemblyReference.cache
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.ProductionsiteUploadFrm.resources
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.Properties.Resources.resources
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.csproj.GenerateResource.cache
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.csproj.CoreCompileInputs.cache
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.csproj.CopyComplete
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.exe
+D:\Tool\Ela\IDPMERGER\obj\Debug\IDPMERGER.pdb

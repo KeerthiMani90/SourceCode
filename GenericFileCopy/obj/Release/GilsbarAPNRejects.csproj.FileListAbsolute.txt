@@ -1,0 +1,17 @@
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\GilsbarAPNRejects.exe.config
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\GilsbarAPNRejects.exe
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\GilsbarAPNRejects.pdb
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Ethos.Core.dll
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Generic.Util.dll
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Generic.Zip.dll
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.csproj.AssemblyReference.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.ProductionsiteUploadFrm.resources
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.Properties.Resources.resources
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.csproj.GenerateResource.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.csproj.CoreCompileInputs.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.csproj.CopyComplete
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.exe
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Release\GilsbarAPNRejects.pdb

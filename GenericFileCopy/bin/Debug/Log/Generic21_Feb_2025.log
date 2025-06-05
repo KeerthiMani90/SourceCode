@@ -1,0 +1,44 @@
+21-02-2025 13:00:08	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+21-02-2025 13:00:08	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:00:08	WFMdll.dll                      	ApplicationStatus.GetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:00:08	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:00:20	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:00:20	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:00:20	GenericFileCopy.exe             	FileCopyRename.GetLocationDs    	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english. Source: E:\ddrive\ETHOS\OMW\IDRS\GenericFileCopy\GenericFileCopyClass.cs - Line: 349 - Col: 21
+21-02-2025 13:00:20	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:09	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+21-02-2025 13:01:09	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:09	WFMdll.dll                      	ApplicationStatus.GetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:09	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:17	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:17	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.
+21-02-2025 13:01:17	GenericFileCopy.exe             	FileCopyRename.GetLocationDs    	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english. Source: E:\ddrive\ETHOS\OMW\IDRS\GenericFileCopy\GenericFileCopyClass.cs - Line: 349 - Col: 21
+21-02-2025 13:01:17	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'Genericv1uat'.
+Changed language setting to us_english.

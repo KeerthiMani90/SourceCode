@@ -1,0 +1,13 @@
+D:\SourceCode\Gtess\FileRenaming\bin\Debug\FileRenaming.exe.config
+D:\SourceCode\Gtess\FileRenaming\bin\Debug\FileRenaming.exe
+D:\SourceCode\Gtess\FileRenaming\bin\Debug\FileRenaming.pdb
+D:\SourceCode\Gtess\FileRenaming\bin\Debug\Ethos.Core.dll
+D:\SourceCode\Gtess\FileRenaming\bin\Debug\Generic.Connection.dll.config
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.csproj.AssemblyReference.cache
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.ProductionsiteUploadFrm.resources
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.Properties.Resources.resources
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.csproj.GenerateResource.cache
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.csproj.CoreCompileInputs.cache
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.csproj.CopyComplete
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.exe
+D:\SourceCode\Gtess\FileRenaming\obj\Debug\FileRenaming.pdb

@@ -1,0 +1,13 @@
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.csproj.AssemblyReference.cache
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.csproj.GenerateResource.cache
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.csproj.CoreCompileInputs.cache
+D:\SourceCode\Gtess\CopyOriginalImage\bin\Debug\Ethos.Core.dll
+D:\SourceCode\Gtess\CopyOriginalImage\bin\Debug\Generic.Connection.dll.config
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.csproj.CopyComplete
+D:\SourceCode\Gtess\CopyOriginalImage\bin\Debug\CopyOriginalImage.exe.config
+D:\SourceCode\Gtess\CopyOriginalImage\bin\Debug\CopyOriginalImage.exe
+D:\SourceCode\Gtess\CopyOriginalImage\bin\Debug\CopyOriginalImage.pdb
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.ProductionsiteUploadFrm.resources
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.Properties.Resources.resources
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.exe
+D:\SourceCode\Gtess\CopyOriginalImage\obj\Debug\CopyOriginalImage.pdb

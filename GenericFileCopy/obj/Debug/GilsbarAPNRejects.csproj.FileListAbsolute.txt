@@ -1,0 +1,13 @@
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Debug\GilsbarAPNRejects.exe.config
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Debug\GilsbarAPNRejects.exe
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Debug\GilsbarAPNRejects.pdb
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Debug\Ethos.Core.dll
+D:\SourceCode\Gtess\GilsbarAPNRejects\bin\Debug\Generic.Connection.dll.config
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.csproj.AssemblyReference.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.ProductionsiteUploadFrm.resources
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.Properties.Resources.resources
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.csproj.GenerateResource.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.csproj.CoreCompileInputs.cache
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.csproj.CopyComplete
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.exe
+D:\SourceCode\Gtess\GilsbarAPNRejects\obj\Debug\GilsbarAPNRejects.pdb

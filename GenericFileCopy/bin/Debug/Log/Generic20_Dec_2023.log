@@ -1,0 +1,6 @@
+20-12-2023 20:18:06	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+20-12-2023 20:18:06	LogFile                         	WriteLogDb                      	Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+20-12-2023 20:18:06	WFMdll.dll                      	ApplicationStatus.GetStatus     	Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+20-12-2023 20:18:06	LogFile                         	WriteLogDb                      	Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+20-12-2023 20:18:08	WFMdll.dll                      	ApplicationStatus.SetStatus     	Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+20-12-2023 20:18:08	LogFile                         	WriteLogDb                      	Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
